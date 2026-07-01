@@ -48,6 +48,10 @@ My hands-on Microsoft 365 Admin learning journey.
 > Helpdesk Admin can reset passwords for regular users
 > but cannot control the full tenant — principle of least privilege.
 
+## 📸 Screenshots
+### Task 1 — Creating Jordan Taylor
+!<img width="909" height="466" alt="add user" src="https://github.com/user-attachments/assets/59239db8-5276-436b-800e-51268865cd6d" />
+
 ---
 
 ### ✅ Task 2 — Email Groups & Shared Mailbox
