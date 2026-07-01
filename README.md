@@ -50,7 +50,7 @@ My hands-on Microsoft 365 Admin learning journey.
 
 ## 📸 Screenshots
 ### Task 1 — Creating Jordan Taylor
-!<img width="909" height="466" alt="add user" src="https://github.com/user-attachments/assets/59239db8-5276-436b-800e-51268865cd6d" />
+<img width="909" height="466" alt="add user" src="https://github.com/user-attachments/assets/59239db8-5276-436b-800e-51268865cd6d" />
 
 ---
 
@@ -70,6 +70,12 @@ My hands-on Microsoft 365 Admin learning journey.
 - Created Shared Mailbox: `support@admin194.onmicrosoft.com`
   - Granted Jordan Taylor: Full Access + Send As
 
+## 📸 Screenshots
+### Task 2 — Email Groups & Shared Mailbox
+<img width="917" height="469" alt="Dist List" src="https://github.com/user-attachments/assets/56dce29d-48f2-41c4-9bc9-3e0de7286170" />
+<img width="916" height="467" alt="create mailbox" src="https://github.com/user-attachments/assets/06f448f4-a3fa-44d8-b05f-cfc08371bcbd" />
+
+
 ---
 
 ### ✅ Task 3 — Investigating Missing Email (Message Trace)
@@ -80,6 +86,11 @@ My hands-on Microsoft 365 Admin learning journey.
 2. Set recipient: jtaylor@admin194.onmicrosoft.com
 3. Date range: Last 2 days
 4. Reviewed delivery status of messages
+
+## 📸 Screenshots
+### Task 3 — Investigating Missing Email (Message Trace)
+<img width="910" height="470" alt="missing email trace" src="https://github.com/user-attachments/assets/05b9dcb4-0a27-4722-b9e6-643370376e28" />
+
 
 ---
 
@@ -94,6 +105,11 @@ My hands-on Microsoft 365 Admin learning journey.
 > 💡 Deleted users can be restored within 30 days
 > before permanent deletion.
 
+## 📸 Screenshots
+### Task 4 — Recovering Deleted User
+<img width="916" height="468" alt="user deletion" src="https://github.com/user-attachments/assets/67b74edd-ea62-438b-bc6f-4c297c6be7ca" />
+
+
 ---
 
 ### ✅ Task 5 — Mail Forwarding
@@ -102,6 +118,10 @@ My hands-on Microsoft 365 Admin learning journey.
 **Steps taken:**
 - Configured Jordan's mailbox to forward to `support@admin194.onmicrosoft.com`
 - Enabled **"Keep a copy in Jordan's inbox"**
+
+## 📸 Screenshots
+### Task 5 — Mail Forwarding
+<img width="915" height="467" alt="mail forwarding" src="https://github.com/user-attachments/assets/42246afc-3c85-4313-b981-2563383f7e3b" />
 
 ---
 
@@ -113,6 +133,10 @@ My hands-on Microsoft 365 Admin learning journey.
 - Triggered "Require re-register MFA" 🔄 [In progress]
 - Revoked all active sessions ✅
 
+## 📸 Screenshots
+### Task 6 — Reset MFA & Revoke Sessions
+<img width="917" height="466" alt="session revoke" src="https://github.com/user-attachments/assets/18e2b52a-489e-4e98-aae7-ee3b9ba11f5b" />
+
 ---
 
 ### ✅ Task 7 — Restrict External Sharing (SharePoint)
@@ -121,6 +145,10 @@ My hands-on Microsoft 365 Admin learning journey.
 **Steps taken:**
 - Located active site (Communication Site)
 - Changed external sharing to: **Only people in your organization**
+
+## 📸 Screenshots
+### Task 7 — Restrict External Sharing
+<img width="916" height="464" alt="external sharing" src="https://github.com/user-attachments/assets/a94f7f09-b58c-43f0-8bd9-02c9bbb26eb1" />
 
 ---
 
