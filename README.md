@@ -11,7 +11,7 @@ My hands-on Microsoft 365 Admin learning journey.
 ---
 
 ## 👤 About Me
-- **Name:** Noel Joseph
+- **Name:** Noel Roshen Joseph
 - **Goal:** Learn Microsoft 365 Administration hands-on
 - **Tenant:** admin194.onmicrosoft.com (Developer Sandbox)
 - **Started:** June 2026
