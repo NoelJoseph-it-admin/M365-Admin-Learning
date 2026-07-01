@@ -106,7 +106,7 @@ My hands-on Microsoft 365 Admin learning journey.
 
 **Steps taken:**
 - Enabled MFA for Jordan Taylor ✅
-- Triggered "Require re-register MFA" ✅
+- Triggered "Require re-register MFA" 🔄 [In progress]
 - Revoked all active sessions ✅
 
 ---
@@ -117,10 +117,6 @@ My hands-on Microsoft 365 Admin learning journey.
 **Steps taken:**
 - Located active site (Communication Site)
 - Changed external sharing to: **Only people in your organization**
-
-> ⚠️ Note: "IT Operations" site did not exist in this
-> tenant. Task was completed on Communication Site
-> using the same method.
 
 ---
 
