@@ -27,7 +27,7 @@ My hands-on Microsoft 365 Admin learning journey.
 | 3 | Message Trace (Missing Email) | Exchange | ✅ Done |
 | 4 | Recover Deleted User | Users | ✅ Done |
 | 5 | Mail Forwarding | Exchange | ✅ Done |
-| 6 | Reset MFA & Revoke Sessions | Entra ID | 🔄 In Progress |
+| 6 | Reset MFA & Revoke Sessions | Entra ID | ✅ Done |
 | 7 | Restrict External Sharing (SharePoint) | SharePoint | ✅ Done |
 
 ---
@@ -125,12 +125,12 @@ My hands-on Microsoft 365 Admin learning journey.
 
 ---
 
-### 🔄 Task 6 — Reset MFA & Revoke Sessions
+### ✅ Task 6 — Reset MFA & Revoke Sessions
 **Admin Center:** Microsoft Entra Admin Center
 
 **Steps taken:**
 - Enabled MFA for Jordan Taylor ✅
-- Triggered "Require re-register MFA" 🔄 [In progress]
+- Triggered "Require re-register MFA" ✅
 - Revoked all active sessions ✅
 
 ## 📸 Screenshots
